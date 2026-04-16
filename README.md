@@ -1,6 +1,7 @@
 # BeTrello_USD
 
 Link: https://busy-inside-29731838.figma.site/
+
 BeTrello is a student-focused project management platform designed to simplify how academic teams plan, organize, and execute their work. It combines task management, collaboration, meetings, and resource sharing into a single, structured interface tailored for student needs.
 
 ## Features
